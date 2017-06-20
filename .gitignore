@@ -1,0 +1,11 @@
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+/.idea
+/bootstrap/compiled.php
+composer.phar
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
