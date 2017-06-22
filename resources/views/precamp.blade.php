@@ -97,7 +97,7 @@
         <!--//about-->
 
         <div class="container">
-            <h2 class="title text-center">Uses for Python</h2>
+            <h2 class="title text-center">Learning Python</h2>
             <div class="video-container text-center"><iframe src="https://docs.google.com/presentation/d/1dXBtVBuSKboubV25NGWYW6Z7CMwciK_8pPEL4kK-T4g/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
         </div>
