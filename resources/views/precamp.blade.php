@@ -96,23 +96,7 @@
         </section>
         <!--//about-->
 
-        <!-- ******LICENSE****** -->
-        <section id="exer2" class="license section">
-        <div class="container">
-        <div class="license-inner">
-        <h2 class="title text-center">Exercise 2</h2>
-        <div class="info">
-        <iframe src="https://docs.google.com/forms/d/1kvoAfqTAjwWmgifY7_fA7VUAukIQruwzV3K7_f3k_dE/viewform?embedded=true" style="width:100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-        </div><!--//info-->
-        <div class="cta-container">
-        <div class="speech-bubble">
-        <p class="intro">Pre welcome message</p>
-        <div class="icon-holder  text-center"><i class="fa fa-smile-o"></i></div>
-        </div><!--//speech-bubble-->
-        </div><!--//cta-container-->
-        </div><!--//license-inner-->
-        </div><!--//container-->
-        </section><!--//how-->
+
         <!-- ******CONTACT****** -->
         <section id="contact" class="contact section has-pattern">
         <div class="container">
