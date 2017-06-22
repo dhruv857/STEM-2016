@@ -89,7 +89,7 @@
         <section id="about" class="about section">
           <div class="container">
             <h2 class="title text-center">Uses for Python</h2>
-            <div class="video-container text-center"><iframe width="560" height="315" src="https://www.youtube.com/embed/LlGeixbG8rw"" frameborder="0" allowfullscreen></iframe></div>
+            <div class="video-container text-center"><iframe width="560" height="315" src="https://www.youtube.com/embed/LlGeixbG8rw" frameborder="0" allowfullscreen></iframe></div>
             
           </div>
           <!--//container-->
@@ -99,8 +99,20 @@
         <div class="container">
             <h2 class="title text-center">Learning Python</h2>
             <div class="video-container text-center"><iframe src="https://docs.google.com/presentation/d/1dXBtVBuSKboubV25NGWYW6Z7CMwciK_8pPEL4kK-T4g/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
-
+            <br>
         </div>
+
+        <section id="about" class="about section">
+            <div class="container">
+                <h2 class="title text-center">Billion Oyster Project</h2>
+                <div class="video-container text-center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=eKOBhp29RSI" frameborder="0" allowfullscreen></iframe></div>
+
+            </div>
+            <!--//container-->
+
+            <a href="https://www.billionoysterproject.org/" target="_blank">Billion Oyster Project Website</a>
+        </section>
+
 
 
         <!-- ******CONTACT****** -->
