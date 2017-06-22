@@ -100,6 +100,7 @@
             <h2 class="title text-center">Learning Python</h2>
             <div class="video-container text-center"><iframe src="https://docs.google.com/presentation/d/1dXBtVBuSKboubV25NGWYW6Z7CMwciK_8pPEL4kK-T4g/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
             <br>
+            <h2 class="title text-center">Feedback Form</h2>
             <div class="video-container text-center"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeP6YIrZlqfzt8LlZb4ogDGxpzkAhrKP52JA0TVclo8gberig/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></div>
             <br>
         </div>
@@ -111,9 +112,12 @@
 
             </div>
             <!--//container-->
-
-            <a href="https://www.billionoysterproject.org/" target="_blank" style="align-content: center">Billion Oyster Project
-                Website</a>
+            <br>
+            <div class="container">
+                <a href="https://www.billionoysterproject.org/" target="_blank">Billion Oyster Project
+                    Website</a>
+            </div>
+            <br>
         </section>
 
 
