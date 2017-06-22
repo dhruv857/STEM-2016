@@ -44,7 +44,7 @@
               <div class="container">
                   <h1 class="logo pull-left">
                       <a class="scrollto" href="#promo">
-                          <span class="logo-title">STEM Collaboratory 2016</span>
+                          <span class="logo-title">STEM Collaboratory 2017</span>
                       </a>
                   </h1><!--//logo-->
                   <nav id="main-nav" class="main-nav navbar-right" role="navigation">
@@ -89,10 +89,10 @@
 <br>
 <br>
 
-<div class="row">
+<!-- <div class="row">
     <div class="col-md-4 col-md-offset-4 text-center" style="line-height:100px;font-size:2em;letter-spacing:.2em;background:#70bf44;"><a style="color:white !important;" href="/campslide" >Camp Slides</a>
     </div>
-</div>
+</div> -->
 <br>
 <br>
 

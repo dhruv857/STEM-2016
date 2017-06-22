@@ -178,7 +178,7 @@ nav.vertical {
               <div class="container">
                   <h1 class="logo pull-left">
                       <a class="scrollto" href="#promo">
-                          <span class="logo-title">STEM Collaboratory 2016</span>
+                          <span class="logo-title">STEM Collaboratory 2017</span>
                       </a>
                   </h1><!--//logo-->
                   <nav id="main-nav" class="main-nav navbar-right" role="navigation">
