@@ -14,7 +14,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Pace University STEM Camp 2016 Pre-Camp HTML Exercise ">
+        <meta name="description" content="Pace University STEM Camp 2017 Pre-Camp HTML Exercise ">
         <meta name="author" content="Dhruvil Gandhi, Virali Jhaveri">
         <link href='https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
@@ -88,7 +88,11 @@
         <!-- ******ABOUT****** -->
         <section id="about" class="about section">
           <div class="container">
-            <h2 class="title text-center">Uses for Python</h2>
+            <h2 class="title text-center">(1/4) Uses for Python</h2>
+            <div class="text-center">
+                <h3>To continue learning about Python, please go through the slides below and complete the
+                    exercises. There is a feedback form under the slides if you have any questions.</h3>
+            </div>
             <div class="video-container text-center"><iframe width="560" height="315" src="https://www.youtube.com/embed/LlGeixbG8rw" frameborder="0" allowfullscreen></iframe></div>
             
           </div>
@@ -97,23 +101,26 @@
         <!--//about-->
 
         <div class="container">
-            <h2 class="title text-center">Learning Python</h2>
+            <h2 class="title text-center">(2/4) Learning Python</h2>
             <div class="video-container text-center"><iframe src="https://docs.google.com/presentation/d/1dXBtVBuSKboubV25NGWYW6Z7CMwciK_8pPEL4kK-T4g/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
             <br>
-            <h2 class="title text-center">Feedback Form</h2>
-            <div class="video-container text-center"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeP6YIrZlqfzt8LlZb4ogDGxpzkAhrKP52JA0TVclo8gberig/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></div>
+            <h2 class="title text-center">(3/4) Feedback Form</h2>
+            <div class="video-container text-center"><iframe src="https://docs.google
+            .com/forms/d/e/1FAIpQLSeP6YIrZlqfzt8LlZb4ogDGxpzkAhrKP52JA0TVclo8gberig/viewform?embedded=true"
+                                                             width="760" height="750" frameborder="0" marginheight="0"
+                                                             marginwidth="0">Loading...</iframe></div>
             <br>
         </div>
 
         <section id="about" class="about section">
             <div class="container">
-                <h2 class="title text-center">Billion Oyster Porject</h2>
+                <h2 class="title text-center">(4/4) Billion Oyster Project</h2>
                 <div class="video-container text-center"><iframe width="854" height="480" src="https://www.youtube.com/embed/eKOBhp29RSI" frameborder="0" allowfullscreen></iframe></div>
 
             </div>
             <!--//container-->
             <br>
-            <div class="text-center">
+            <div class="title text-center">
                 <a href="https://www.billionoysterproject.org/" target="_blank">Billion Oyster Project
                     Website</a>
             </div>
