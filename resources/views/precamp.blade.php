@@ -105,8 +105,8 @@
             <div class="video-container text-center"><iframe src="https://docs.google.com/presentation/d/1dXBtVBuSKboubV25NGWYW6Z7CMwciK_8pPEL4kK-T4g/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
             <br>
             <h2 class="title text-center">(3/4) Feedback Form</h2>
-            <div class="video-container text-center" style="height: 750px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeP6YIrZlqfzt8LlZb4ogDGxpzkAhrKP52JA0TVclo8gberig/viewform?embedded=true"
-                                                             width="760" height="750" frameborder="0" marginheight="0"
+            <div class="video-container text-center" style="height: 1250px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeP6YIrZlqfzt8LlZb4ogDGxpzkAhrKP52JA0TVclo8gberig/viewform?embedded=true"
+                                                             width="760" height="100%" frameborder="0" marginheight="0"
                                                              marginwidth="0">Loading...</iframe></div>
             <br>
         </div>
