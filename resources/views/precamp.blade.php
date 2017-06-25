@@ -120,8 +120,8 @@
             <!--//container-->
             <br>
             <div class="title text-center">
-                <a href="https://www.billionoysterproject.org/" target="_blank">Billion Oyster Project
-                    Website</a>
+                <a href="https://www.billionoysterproject.org/" target="_blank"><h3 class="title text-center">Billion
+                        Oyster Project Website</h3></a>
             </div>
             <br>
         </section>
