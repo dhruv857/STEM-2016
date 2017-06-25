@@ -90,8 +90,7 @@
           <div class="container">
             <h2 class="title text-center">(1/4) Uses for Python</h2>
             <div class="text-center">
-                <h3>To continue learning about Python, please go through the slides below and complete the
-                    exercises. There is a feedback form under the slides if you have any questions.</h3>
+                <h3>This is a small introductory video to Python and its uses.</h3>
             </div>
             <div class="video-container text-center"><iframe width="560" height="315" src="https://www.youtube.com/embed/LlGeixbG8rw" frameborder="0" allowfullscreen></iframe></div>
             
@@ -102,9 +101,17 @@
 
         <div class="container">
             <h2 class="title text-center">(2/4) Learning Python</h2>
+            <div class="text-center">
+                <h3>To continue learning about Python, please go through the slides below and complete the
+                    exercises. There is a feedback form under the slides if you have any questions.</h3>
+            </div>
             <div class="video-container text-center"><iframe src="https://docs.google.com/presentation/d/1dXBtVBuSKboubV25NGWYW6Z7CMwciK_8pPEL4kK-T4g/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
             <br>
             <h2 class="title text-center">(3/4) Feedback Form</h2>
+            <div class="text-center">
+                <h3>Any feedback or questions you might have can be submitted here. All feedback is greatly
+                    appreciated!</h3>
+            </div>
             <div class="video-container text-center" style="height: 1250px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeP6YIrZlqfzt8LlZb4ogDGxpzkAhrKP52JA0TVclo8gberig/viewform?embedded=true"
                                                              width="760" height="100%" frameborder="0" marginheight="0"
                                                              marginwidth="0">Loading...</iframe></div>
@@ -114,6 +121,10 @@
         <section id="about" class="about section">
             <div class="container">
                 <h2 class="title text-center">(4/4) Billion Oyster Project</h2>
+                <div class="text-center">
+                    <h3>This video has a litte more information about the project you'll be working on. Feel free
+                        to check out their website linked below the video as well.</h3>
+                </div>
                 <div class="video-container text-center"><iframe width="854" height="480" src="https://www.youtube.com/embed/eKOBhp29RSI" frameborder="0" allowfullscreen></iframe></div>
 
             </div>
