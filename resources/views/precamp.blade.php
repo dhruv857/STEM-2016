@@ -73,7 +73,7 @@
         <!-- ******PROMO****** -->
         <section id="promo" class="promo section offset-header" style="padding-bottom:40px;">
           <div class="container">
-            <img src="left_banner.jpg" style="width:72%;float:left" />
+            <img src="left_banner.png" style="width:72%;float:left" />
             <img src="stemcamp.gif" style="width:28%;float:right" />
           </div>
         </section>
