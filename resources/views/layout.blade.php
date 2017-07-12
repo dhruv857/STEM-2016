@@ -89,10 +89,10 @@
 <br>
 <br>
 
-<!-- <div class="row">
+<div class="row">
     <div class="col-md-4 col-md-offset-4 text-center" style="line-height:100px;font-size:2em;letter-spacing:.2em;background:#70bf44;"><a style="color:white !important;" href="/campslide" >Camp Slides</a>
     </div>
-</div> -->
+</div>
 <br>
 <br>
 
