@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<!--[if IE 8]> 
+<!--[if IE 8]>
 <html lang="en" class="ie8">
   <![endif]-->
-  <!--[if IE 9]> 
+  <!--[if IE 9]>
   <html lang="en" class="ie9">
     <![endif]-->
-    <!--[if !IE]><!--> 
+    <!--[if !IE]><!-->
     <html lang="en">
       <!--<![endif]-->
       <head>
@@ -14,11 +14,11 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Pace University STEM Camp 2017 Pre-Camp HTML Exercise ">
+        <meta name="description" content="Pace University STEM Camp 2018 Pre-Camp HTML Exercise ">
         <meta name="author" content="Dhruvil Gandhi, Virali Jhaveri">
         <link href='https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
-        
+
         <!-- Global CSS -->
         <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
         <!-- Plugins CSS -->
@@ -33,17 +33,17 @@
         <![endif]-->
 
 
-        
+
       </head>
       <body data-spy="scroll">
-        
+
         @if (Auth::check())
         <!-- ******HEADER****** -->
           <header id="header" class="header" style="position:fixed !important;top:0px;">
               <div class="container">
                   <h1 class="logo pull-left">
                       <a class="scrollto" href="#promo">
-                          <span class="logo-title">STEM Collaboratory 2017</span>
+                          <span class="logo-title">STEM Collaboratory 2018</span>
                       </a>
                   </h1><!--//logo-->
                   <nav id="main-nav" class="main-nav navbar-right" role="navigation">
@@ -58,12 +58,12 @@
                       <div class="navbar-collapse collapse" id="navbar-collapse">
                           <ul class="nav navbar-nav">
                               <li class="nav-item"><a style="color:white !important" class="headnavitem" href="/">Home</a></li>
-                              
+
                               <li class="nav-item"><a style="color:white !important" class="headnavitem" href="/logout">Logout</a>
                               <li class="nav-item"><a style="color:white !important" class="headnavitem" href="#"> <img src="{{ Auth::user()->picture }}" width="30px" height="30px">
 </a>
                               </li>
-                              
+
 
                           </ul><!--//nav-->
                       </div><!--//navabr-collapse-->
@@ -93,7 +93,7 @@
                 <h3>This is a small introductory video to Python and its uses.</h3>
             </div>
             <div class="video-container text-center"><iframe width="560" height="315" src="https://www.youtube.com/embed/LlGeixbG8rw" frameborder="0" allowfullscreen></iframe></div>
-            
+
           </div>
           <!--//container-->
         </section>

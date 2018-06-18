@@ -21,7 +21,7 @@
 
     <style>
         body{
-       
+
                -webkit-font-smoothing: antialiased;
     font-weight: 400;
     height: auto !important;
@@ -31,12 +31,12 @@
     overflow: hidden;
 
         }
-        
+
         * {
     margin: 0;
     padding: 0;
     outline: none;
-    
+
  /*   -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;*/
@@ -54,7 +54,7 @@ div.content{
 }
 
 div.wrapper {
-  
+
   width: 30%;
   float:left;
 }
@@ -89,7 +89,7 @@ nav.vertical {
       nav.vertical > ul > li
       {
          background-color: #ffc61e;
-        
+
         border-bottom: 1px solid rgba(255,255,255,.1);
         box-shadow: inset 0 1px 1px rgba(0,0,0,.1), 0 1px 1px rgba(0,0,0,.1);
         color: rgb(0,0,0);
@@ -105,8 +105,8 @@ nav.vertical {
       }
 
       nav.vertical > ul > li > a {
-        
-        
+
+
         border-bottom: 1px solid rgba(255,255,255,.1);
         box-shadow: inset 0 1px 1px rgba(0,0,0,.1), 0 1px 1px rgba(0,0,0,.1);
         color: rgb(0,0,0);
@@ -125,11 +125,11 @@ nav.vertical {
         nav.vertical > ul > li > a:hover {
                  background-color: #70bf44;
 
-         
+
          cursor: pointer;
         }
 
-       
+
           nav.vertical > ul > li > div {
             background-color: rgb(255,255,255);
             max-height: 0;
@@ -140,7 +140,7 @@ nav.vertical {
             nav.vertical > ul > li > label + input:checked + div {
               max-height: 500px;
             }
- 
+
           nav.vertical > ul > li > div > ul {
             list-style-type: none;
           }
@@ -178,7 +178,7 @@ nav.vertical {
               <div class="container">
                   <h1 class="logo pull-left">
                       <a class="scrollto" href="#promo">
-                          <span class="logo-title">STEM Collaboratory 2017</span>
+                          <span class="logo-title">STEM Collaboratory 2018</span>
                       </a>
                   </h1><!--//logo-->
                   <nav id="main-nav" class="main-nav navbar-right" role="navigation">
@@ -193,19 +193,19 @@ nav.vertical {
                       <div class="navbar-collapse collapse" id="navbar-collapse">
                           <ul class="nav navbar-nav">
                               <li class="nav-item"><a href="/">Home</a></li>
-                              
+
                               <li class="nav-item"><a href="/logout">Logout</a>
                               <li class="nav-item"><a href="#"> <img src="{{ Auth::user()->picture }}" width="30px" height="30px">
 </a>
                               </li>
-                              
+
 
                           </ul><!--//nav-->
                       </div><!--//navabr-collapse-->
                   </nav><!--//main-nav-->
               </div>
           </header><!--//header-->
-          
+
 <div class="wrapper" style="margin-top:80px;">
   <nav class="vertical">
     <ul>
@@ -222,10 +222,10 @@ nav.vertical {
       <li id="js5"><a onclick="loadslides(4)">JAVASCRIPT II</a></li>
       <li id="d36"><a onclick="loadslides(5)">INTRO TO D3</a></li>
       <li id="rf7"><a onclick="loadslides(6)">REFERRENCES</a></li>
-      
+
     </ul>
   </nav>
- 
+
 </div>
 <div class="content" style="margin-top:80px;" id="contentplace">
 <iframe id="slidedeck" src="https://docs.google.com/presentation/d/1rwr9ZEwKEFH8_KKKcMpwO4KB__nkKRmhjK0RWxPiqqA/embed?start=false&loop=false&delayms=3000" frameborder="0" style="min-width:90%;height:65%;margin-left:5%;margin-top:3%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" align="center" margin="0 auto"></iframe>
@@ -240,15 +240,15 @@ nav.vertical {
 function loadslides(deckno){
       var links=['https://docs.google.com/presentation/d/1rwr9ZEwKEFH8_KKKcMpwO4KB__nkKRmhjK0RWxPiqqA/embed?start=false&loop=false&delayms=3000','https://docs.google.com/presentation/d/17VsliANiNc-twnSNtfuKm2-9KCICBbMbqIyXgNzNVm4/embed?start=false&loop=false&delayms=3000','https://docs.google.com/presentation/d/1EJBRyxLIwd-F3Smc7A1w2Ju2du6gUJpKsCHSeFTydFI/embed?start=false&loop=false&delayms=3000','https://docs.google.com/presentation/d/1IOs3Z8agFK3Q30bQPaxiZV0sOTq6KWrtn7s9tMdpbtE/embed?start=false&loop=false&delayms=3000','https://docs.google.com/presentation/d/1lkGXmy0LU2o9-2IDTvyBjNkt86A2e3m__2v1NS1G9hE/embed?start=false&loop=false&delayms=3000','https://docs.google.com/presentation/d/1hWzw5B2pRju-TBS6l53_xEXFf3kjiFVguW5Mg-qg2aI/embed?start=false&loop=false&delayms=3000','https://docs.google.com/presentation/d/1ZqmU2b5teBt-x8pI2GEXXDrpOSeVTFGPtOSWxZ6DQug/embed?start=false&loop=false&delayms=3000'];
 var id=['html1','data2','ui3','js4','js5','d36','rf7'];
- 
+
 
        $("#prevc").data("count", deckno-1);
         var stringval=(deckno+1)+"/8";
         $("#curc").html(stringval);
         $("#nextc").data("count",deckno+1);
-        
+
       $("#slidedeck").attr('src',links[deckno]);
-      
+
       for(i in id){
 
         $("#"+id[i]).css({'background-color':'#ffc61e '});
@@ -257,7 +257,7 @@ var id=['html1','data2','ui3','js4','js5','d36','rf7'];
   }</script>
 @else
 <script type="text/javascript">
-    
+
     window.location.href = "{{URL::to('/')}}";
     </script>
 @endif

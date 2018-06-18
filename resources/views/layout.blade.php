@@ -17,7 +17,7 @@
     <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
     <style>
         body{
-            background-image: url('homebackground.jpg'); 
+            background-image: url('homebackground.jpg');
               -webkit-background-size: cover;
               -moz-background-size: cover;
               -o-background-size: cover;
@@ -44,7 +44,7 @@
               <div class="container">
                   <h1 class="logo pull-left">
                       <a class="scrollto" href="#promo">
-                          <span class="logo-title">STEM Collaboratory 2017</span>
+                          <span class="logo-title">STEM Collaboratory 2018</span>
                       </a>
                   </h1><!--//logo-->
                   <nav id="main-nav" class="main-nav navbar-right" role="navigation">
@@ -60,7 +60,7 @@
                           <ul class="nav navbar-nav">
                               <li class="nav-item"><a href="/precamp">PreCamp Lessons</a></li>
                               <!-- <li class="nav-item"><a href="/">Camp Slides</a></li> -->
-                              
+
                               <li class="nav-item"><a href="/logout">Logout</a><li class="nav-item"><a href="#"> <img src="{{ Auth::user()->picture }}" width="30px" height="30px">
 </a>
                               </li>
@@ -80,7 +80,7 @@
 <br>
 
 
-<!-- Welcome  {{ Auth::user()->nickname }}   
+<!-- Welcome  {{ Auth::user()->nickname }}
  -->
 <div class="row">
     <div class="col-md-4 col-md-offset-4 text-center" style="line-height:100px;font-size:2em;letter-spacing:.2em;background:#70bf44;"><a style="color:white !important;" href="/precamp">Pre-Camp Lessons</a>
@@ -103,9 +103,9 @@
 <br>
 
 
-    
+
 @else
-    
+
     <h1 class="text-center" style="color:#3e6ab3 !important;font-size:2em;">STEM COLLABORATORY NYC<h1><br>
     <div id="hiw-login-container"></div>
     <script src="https://cdn.auth0.com/js/lock-9.2.min.js"></script>
@@ -114,7 +114,7 @@
         document.getElementById("hiw-login-container").style.marginLeft= margintobe;
         var lock = new Auth0Lock('{{ env("AUTH0_CLIENT_ID") }}', '{{ env("AUTH0_DOMAIN") }}');
 
-        
+
         lock.show({
             icon: 'logo.png',
             callbackURL: '{{ env ("AUTH0_CALLBACK_URL" )}}',
@@ -126,4 +126,3 @@
 
 </body>
 </html>
-
