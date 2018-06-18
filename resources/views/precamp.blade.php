@@ -112,7 +112,7 @@
                 <h3>Any feedback or questions you might have can be submitted here. All feedback is greatly
                     appreciated!</h3>
             </div>
-            <div class="video-container text-center" style="height: 1250px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeP6YIrZlqfzt8LlZb4ogDGxpzkAhrKP52JA0TVclo8gberig/viewform?embedded=true"
+            <div class="video-container text-center" style="height: 1250px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSddAhbEm4ymWkQmjbBenkDJLjw596lBeBikJcxhPcLo35gJwg/viewform?embedded=true"
                                                              width="760" height="100%" frameborder="0" marginheight="0"
                                                              marginwidth="0">Loading...</iframe></div>
             <br>
@@ -150,8 +150,8 @@
         </div><!--//profile-->
         <div class="speech-bubble">
         <h3 class="sub-title">Welcome STEM Collaboratory Students!</h3>
-        <p>It is a pleasure to invite you to Pace University! The program is from July 7th to July 21st,
-            Monday-Friday starting promptly at 10AM to approximately 4PM. On some days during the program, we will go on company visits and trips around New York City that will end after 4PM. You will learn how to visualize data using different tools, design user interfaces, working on live projects with other students and have LOTS & LOTS OF FUN!</p>
+        <p>It is a pleasure to invite you to Pace University! The program is from July 2nd to July 13th,
+            Monday-Friday starting promptly at 10AM to approximately 4PM. On some days during the program, we will go on company visits and trips around New York City that will end after 4PM. You will learn how to visualize data using different tools, design user interfaces, work on live projects with other students and have LOTS & LOTS OF FUN!</p>
         <!-- <div class="source">
           <span class="name"><a href="https://twitter.com/3rdwave_themes" target="_blank">Xiaoying Riley</a></span>
           <br />
