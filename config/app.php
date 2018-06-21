@@ -39,7 +39,7 @@ return [
     |
     */
 
-    'url' => 'http://localhost',
+    'url' => 'https://stem-2018.herokuapp.com',
 
     /*
     |--------------------------------------------------------------------------
@@ -202,7 +202,7 @@ return [
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View'      => Illuminate\Support\Facades\View::class,
         'Auth0' => 'Auth0\Login\Facade\Auth0'
-    
+
     ],
 
 ];
